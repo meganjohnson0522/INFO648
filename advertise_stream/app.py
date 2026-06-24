@@ -11,7 +11,7 @@ y_var=st.sidebar.selectbox("Y Axis",["sales"])
 #show scatterplot
 fig=px.scatter(df,x="TV",y='sales')
 st.plotly_chart(fig)
-st.plotly_chart(fig)
+#st.plotly_chart(fig)
 #fig.show()                #delete this
 #Dataframe
 st.write("### This is the data")
