@@ -3,5 +3,5 @@ ployly
 streamlit
 scikit-learn==1.6.1
 numpy
-matplotlib
+matplotlib==3.10.8
 seaborn
