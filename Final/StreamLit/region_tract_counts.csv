@@ -1,0 +1,10 @@
+division,states_in_division,num_states,tracts
+New England,"Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont",6,3392
+East South Central,"Alabama, Kentucky, Mississippi, Tennessee",4,4457
+Mountain,"Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, Wyoming",8,5250
+West North Central,"Iowa, Kansas, Minnesota, Missouri, Nebraska, North Dakota, South Dakota",7,5285
+West South Central,"Arkansas, Louisiana, Oklahoma, Texas",4,8145
+Middle Atlantic,"New Jersey, New York, Pennsylvania",3,10147
+Pacific,"Alaska, California, Hawaii, Oregon, Washington",5,10867
+East North Central,"Illinois, Indiana, Michigan, Ohio, Wisconsin",5,11808
+South Atlantic,"Delaware, District Of Columbia, Florida, Georgia, Maryland, North Carolina, South Carolina, Virginia, West Virginia",9,13706

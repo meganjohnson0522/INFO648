@@ -1,0 +1,18 @@
+column,description
+GISJOIN,identifier
+STATE,identifier
+STATEA,identifier
+COUNTY,identifier
+COUNTYA,identifier
+TRACTA,identifier
+pop_total_2010,2010 total population (exact count)
+pop_total_2020,"2020 total population, interpolated to 2010 tracts (decimal estimate) — train file only"
+housing_occupied_2010/2020,occupied housing units
+housing_vacant_2010/2020,vacant housing units
+housing_owner_occ_2010/2020,owner-occupied housing units
+housing_renter_occ_2010/2020,renter-occupied housing units
+age_<band>_2010/2020,persons in each of 22 age bands (counts)
+race_<grp>_2010/2020,persons in each of 12 Hispanic-origin x race groups (counts)
+land_area_sqkm,tract land area in square km (from 2010 TIGER shapefile)
+density_perkm2,population / land_area_sqkm for that file's year
+settlement_type,"CATEGORICAL: rural (<100/km2), suburban (100-1000), urban (>=1000)"
